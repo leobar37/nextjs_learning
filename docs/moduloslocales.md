@@ -84,5 +84,3 @@ module.exports = {
 ```
 
 https://dev.to/lewisyuburi/next-js-typescript-mejora-la-manera-en-que-importas-componentes-y-modulos-locales-42bc
-
-https://medium.com/@selvaganesh93/setup-next-js-with-typescript-integration-dece94e43cf5
